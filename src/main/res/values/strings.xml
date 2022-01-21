@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieDemoApp</string>
+    <string name="title">Title :</string>
+    <string name="score">Score :</string>
+    <string name="status">Status :</string>
+    <string name="runtime">Runtime :</string>
+    <string name="rating">Rating :</string>
+    <string name="schedule">Schedule :</string>
+    <string name="genre">Genre :</string>
+    <string name="language">Language :</string>
+    <string name="search">Search</string>
+</resources>
